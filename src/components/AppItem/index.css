@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-image {
+  height: 50px;
+  width: 50px;
+}
+
+.app-image-container {
+  border: 1px solid #000;
+  padding: 10px 16px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
